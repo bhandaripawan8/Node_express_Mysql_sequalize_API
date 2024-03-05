@@ -1,0 +1,30 @@
+{
+  "name": "node_express_mysql_sequalize_api",
+  "version": "1.0.0",
+  "description": "node express crud api with sequalize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhandaripawan8/Node_express_Mysql_sequalize_API.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sequalize"
+  ],
+  "author": "PawanBhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhandaripawan8/Node_express_Mysql_sequalize_API/issues"
+  },
+  "homepage": "https://github.com/bhandaripawan8/Node_express_Mysql_sequalize_API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.37.1"
+  }
+}
